@@ -1,0 +1,6 @@
+praat-parselmouth
+scipy
+librosa
+torch
+numpy
+tqdm
